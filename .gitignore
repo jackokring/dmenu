@@ -1,4 +1,4 @@
 *.o
-dwm
+dmenu
 *~
 config.h
